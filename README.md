@@ -1,7 +1,9 @@
 # Saving-the-Ocean-Doom-Style
 My final MSIP product for 2021.
 
+NOTE:
 This is a work in progress, the full version will be finished soon.
+This only works on 64-bit Windows 10 machines.
 
 (SETUP INSTRUCTIONS)
 
@@ -19,3 +21,4 @@ Click "Extract".
 Open "Saving-the-Ocean-Doom-Style-main".
 Drag "trash.wad" onto "gzdoom.exe".
 Enjoy!
+(And don't play past level 2, I haven't edited after that yet)
