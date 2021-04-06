@@ -9,9 +9,13 @@ Go to your desktop.
 Right-click.
 Click "New".
 Click "Folder".
-Name the folder.
+Name the folder "Saving the Ocean Doom Style".
 Go back to the folder with this text file.
+Double-click "gzdoom.exe".
+Click "Browse" on the popup.
+Click "Desktop" on the left of the popup.
+Click "Saving the Ocean Doom Style".
+Click "Extract".
+Open "Saving-the-Ocean-Doom-Style-main".
 Drag "trash.wad" onto "gzdoom.exe".
-Extract the files to your new desktop folder if needed.
-Drag "trash.wad" onto "gzdoom.exe" again.
 Enjoy!
