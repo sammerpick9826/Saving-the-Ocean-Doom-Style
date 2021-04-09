@@ -21,5 +21,5 @@ Click "Extract".
 Open "Saving-the-Ocean-Doom-Style-main".
 Drag "trash.wad" onto "gzdoom.exe".
 Enjoy!
-(Press F1 key for controls)
+(Press F1 key in-game for controls)
 (And don't play past level 3, I haven't edited after that yet)
