@@ -5,6 +5,8 @@ This only works on 64-bit Windows 10 machines.
 
 (SETUP INSTRUCTIONS)
 
+Instruction video link - https://www.youtube.com/watch?v=ggH3xCKTcEU
+
 Go to your desktop.
 Right-click.
 Click "New".
